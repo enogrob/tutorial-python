@@ -19,4 +19,5 @@ Learn everything you need to about the subject of this `Tutorial` project.
 * [x] [Minicurso Python Instalação](https://www.youtube.com/watch?v=RQoZkGIWUDo&t=658s)
 * [ ] [Instalando o Jupyter - Pacote Anaconda para Programação em Python - YouTube](https://www.youtube.com/watch?v=_eK0z5QbpKA)
 * [ ] [Como Sair do ZERO no Python em APENAS UMA AULA - YouTube](https://www.youtube.com/watch?v=GQpQha2Mfpg&t=1416s)
+* [x] [Python Tutorial: virtualenv and why you should use virtual environments](https://www.youtube.com/watch?v=N5vscPTWKOk)
 
